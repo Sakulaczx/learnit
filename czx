@@ -1,2 +1,10 @@
-it is a distributed version control system.
-Git is free software distributed under the GPL.Git has a mutable index called stage.
+echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+
+sudo dpkg -i [.deb文件的名字]
+
+sudo dpkg --configure -a
+安装完flash时候设置
+
+//CVS SVN 版本控制系统
+
+git remote rm origin  github删除现有origin
